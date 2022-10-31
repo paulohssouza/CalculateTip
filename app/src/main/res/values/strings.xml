@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculateTip</string>
+    <string name="descriptionImage">Logo App</string>
+    <string name="hintText">Digite o valor da conta:</string>
+    <string name="textViewPercent">0%</string>
+    <string name="textViewTip">Gorjeta</string>
+    <string name="textViewTipValue">R$ 0.00</string>
+    <string name="textViewCostTotal">Total</string>
+    <string name="textViewCostTotalValue">R$ 0.00</string>
+</resources>
